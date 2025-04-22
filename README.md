@@ -1,4 +1,4 @@
-# plan-estudio-IA
+# Plan-estudio-IA
 Mi plan autodidacta para aprender Inteligencia Artificial
 # Plan de Estudio en Inteligencia Artificial
  # Objetivos
